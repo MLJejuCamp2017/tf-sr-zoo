@@ -1,0 +1,7 @@
+dataset/datasets/
+dataset/tfrecord
+*.pyc
+*log*
+*checkpoint*
+*result*
+
